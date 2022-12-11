@@ -1,2 +1,2 @@
 # Python-Code
-This is python code
+This India Map made with the help of python.
